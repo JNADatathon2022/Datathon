@@ -1,4 +1,4 @@
-# Datathon 2022 - UPC - Supply Chain Resilience
+# Datathon 2022 - Supply Chain Resilience
 2022-11-12
 
 ## Challenge
