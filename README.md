@@ -1,5 +1,6 @@
-# Datathon 2022 - Supply Chain Resilience
-2022-11-12
+<p align="center">
+  <img width="548" height="250" src="readme_assets/logo.png">
+</p>
 
 ## Challenge
 We were tasked to understand supply chain disruptions in the form of late deliveries and to train
