@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="548" height="250" src="readme_assets/logo.png">
+  <img width="425" height="193" src="readme_assets/logo.png">
 </p>
 
 ## Challenge
