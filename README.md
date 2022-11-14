@@ -2,6 +2,16 @@
   <img width="425" height="193" src="readme_assets/logo.png">
 </p>
 
+<div align="center">
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/c/datathon-2022-upc-accenture)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+[![Devpost | Metis Business Intelligence](https://badges.devpost-shields.com/get-badge?name=Metis%20Business%20Intelligence&id=metis-business-intelligence&type=big-logo&style=for-the-badge)](https://devpost.com/software/metis-business-intelligence)
+
+</div>
+
+
 ## Challenge
 We were tasked to understand supply chain disruptions in the form of late deliveries and to train
 a model product delays based on historical inbound/outbound orders of the company.
@@ -63,3 +73,9 @@ Including distance between pair of cities
 ### test.csv
 Same as `orders.csv` but variable `late_order` has been truncated.
 This is the target variable
+
+
+## Other parts of our project
+- [Model inference](https://github.com/JNADatathon2022/ModelInferenceApp)
+- [Public dashboard](https://github.com/JNADatathon2022/ExplainabilityDashboard)
+
