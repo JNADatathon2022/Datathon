@@ -4,8 +4,8 @@
 ## Challenge
 We were tasked to understand supply chain disruptions in the form of late deliveries and to train
 a model product delays based on historical inbound/outbound orders of the company.
-As a result, we provide supply chain resilience in the form of disaster prevention and damage control,
-as well as reevaluation of business partnerships in the iterative process of supply chain optimization.
+In practical terms, the task is to provide supply chain resilience in the form of disaster prevention and damage control,
+as well as value by reevaluating business partnerships in the iterative process of supply chain optimization.
 
 
 *What is it expected from the technical challenge?*
